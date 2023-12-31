@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gio-remo)](https://github.com/gio-remo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gio-remo&layout=pie)](https://github.com/gio-remo/github-readme-stats)
